@@ -57,4 +57,7 @@ uvicorn app.main:app --reload
 ```
 ### Open from here 
 ```http://127.0.0.1:8000/docs```
-https://miro.medium.com/v2/resize:fit:1100/format:webp/0*1yRf76ev17TERbVu
+
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ea49d6a3-e125-4bdf-96fc-83758e26ed55" />
+
