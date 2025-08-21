@@ -1,0 +1,21 @@
+#Python
+aaa__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+
+# Envs
+venv/
+.env
+
+
+# DB
+app.db
+
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
