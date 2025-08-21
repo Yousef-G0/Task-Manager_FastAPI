@@ -16,6 +16,7 @@ A minimal Task Manager REST API with **authentication (JWT)**, **CRUD**, **valid
 - PyJWT (tokens), passlib (password hashing)
 
 ## Project layout
+```
 task-manager/
 ├─ requirements.txt
 ├─ .gitignore
@@ -26,12 +27,13 @@ task-manager/
       ├─ schemas.py
       ├─ auth.py
       └─ main.py
-
+```
 
 ## Prerequisites
+```
 - Python **3.10+**
 - Git
-
+```
 ## Quick start (local)
 
 ### Windows PowerShell
